@@ -1,8 +1,6 @@
 
 
 
-
-
 # Azure-Face-API
 Test
 
