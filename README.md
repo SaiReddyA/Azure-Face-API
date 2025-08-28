@@ -2,5 +2,3 @@
 # Azure-Face-API
 Test
 
-
-
